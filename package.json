@@ -1,18 +1,19 @@
 {
   "name": "zhijia-publisher",
   "main": "./lib/zhijia-publisher",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "知加文集管理",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["zhijia-publisher:toggle","zhijia-publisher:init"]
+    "atom-workspace": [
+      "zhijia-publisher:toggle",
+      "zhijia-publisher:init"
+    ]
   },
   "repository": "https://github.com/zxs1215/zhiji-publisher",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
