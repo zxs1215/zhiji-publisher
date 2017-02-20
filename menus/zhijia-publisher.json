@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Zhijia UP",
+        "command": "zhijia-publisher:toggle"
+      },
+      {
+        "label": "Zhijia Init",
+        "command": "zhijia-publisher:init"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "zhijia-publisher",
+          "submenu": [
+            {
+              "label": "Up",
+              "command": "zhijia-publisher:toggle"
+            },
+            {
+              "label": "Init",
+              "command": "zhijia-publisher:init"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

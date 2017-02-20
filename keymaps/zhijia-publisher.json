@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-u": "zhijia-publisher:toggle",
+    "ctrl-alt-i": "zhijia-publisher:init"
+  }
+}
