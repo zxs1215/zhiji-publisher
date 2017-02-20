@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": ["zhijia-publisher:toggle","zhijia-publisher:init"]
   },
-  "repository": "https://github.com/atom/zhijia-publisher",
+  "repository": "https://github.com/zxs1215/zhiji-publisher.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
